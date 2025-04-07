@@ -1,0 +1,14 @@
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\bin\Debug\net6.0\PokemonProject.exe
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\bin\Debug\net6.0\PokemonProject.deps.json
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\bin\Debug\net6.0\PokemonProject.runtimeconfig.json
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\bin\Debug\net6.0\PokemonProject.dll
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\bin\Debug\net6.0\PokemonProject.pdb
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\obj\Debug\net6.0\PokemonProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\obj\Debug\net6.0\PokemonProject.AssemblyInfoInputs.cache
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\obj\Debug\net6.0\PokemonProject.AssemblyInfo.cs
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\obj\Debug\net6.0\PokemonProject.csproj.CoreCompileInputs.cache
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\obj\Debug\net6.0\PokemonProject.dll
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\obj\Debug\net6.0\refint\PokemonProject.dll
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\obj\Debug\net6.0\PokemonProject.pdb
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\obj\Debug\net6.0\PokemonProject.genruntimeconfig.cache
+C:\Users\Niko\C#_Exercises\PokemonProject\PokemonProject\obj\Debug\net6.0\ref\PokemonProject.dll

@@ -1,0 +1,14 @@
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\bin\Debug\net6.0\CollectionsExercise.exe
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\bin\Debug\net6.0\CollectionsExercise.deps.json
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\bin\Debug\net6.0\CollectionsExercise.runtimeconfig.json
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\bin\Debug\net6.0\CollectionsExercise.dll
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\bin\Debug\net6.0\CollectionsExercise.pdb
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\obj\Debug\net6.0\CollectionsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\obj\Debug\net6.0\CollectionsExercise.AssemblyInfoInputs.cache
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\obj\Debug\net6.0\CollectionsExercise.AssemblyInfo.cs
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\obj\Debug\net6.0\CollectionsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\obj\Debug\net6.0\CollectionsExercise.dll
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\obj\Debug\net6.0\refint\CollectionsExercise.dll
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\obj\Debug\net6.0\CollectionsExercise.pdb
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\obj\Debug\net6.0\CollectionsExercise.genruntimeconfig.cache
+C:\Users\Niko\C#_Exercises\CollectionsExercise\CollectionsExercise\obj\Debug\net6.0\ref\CollectionsExercise.dll

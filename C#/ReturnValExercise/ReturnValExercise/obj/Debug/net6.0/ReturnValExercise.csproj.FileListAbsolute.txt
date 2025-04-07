@@ -1,0 +1,14 @@
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\bin\Debug\net6.0\ReturnValExercise.exe
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\bin\Debug\net6.0\ReturnValExercise.deps.json
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\bin\Debug\net6.0\ReturnValExercise.runtimeconfig.json
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\bin\Debug\net6.0\ReturnValExercise.dll
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\bin\Debug\net6.0\ReturnValExercise.pdb
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\obj\Debug\net6.0\ReturnValExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\obj\Debug\net6.0\ReturnValExercise.AssemblyInfoInputs.cache
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\obj\Debug\net6.0\ReturnValExercise.AssemblyInfo.cs
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\obj\Debug\net6.0\ReturnValExercise.csproj.CoreCompileInputs.cache
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\obj\Debug\net6.0\ReturnValExercise.dll
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\obj\Debug\net6.0\refint\ReturnValExercise.dll
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\obj\Debug\net6.0\ReturnValExercise.pdb
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\obj\Debug\net6.0\ReturnValExercise.genruntimeconfig.cache
+C:\Users\Niko\C#_Exercises\ReturnValExercise\ReturnValExercise\obj\Debug\net6.0\ref\ReturnValExercise.dll

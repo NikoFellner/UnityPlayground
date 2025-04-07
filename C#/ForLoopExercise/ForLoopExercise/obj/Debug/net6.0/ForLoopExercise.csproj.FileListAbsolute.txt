@@ -1,0 +1,14 @@
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\bin\Debug\net6.0\ForLoopExercise.exe
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\bin\Debug\net6.0\ForLoopExercise.deps.json
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\bin\Debug\net6.0\ForLoopExercise.runtimeconfig.json
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\bin\Debug\net6.0\ForLoopExercise.dll
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\bin\Debug\net6.0\ForLoopExercise.pdb
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\obj\Debug\net6.0\ForLoopExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\obj\Debug\net6.0\ForLoopExercise.AssemblyInfoInputs.cache
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\obj\Debug\net6.0\ForLoopExercise.AssemblyInfo.cs
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\obj\Debug\net6.0\ForLoopExercise.csproj.CoreCompileInputs.cache
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\obj\Debug\net6.0\ForLoopExercise.dll
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\obj\Debug\net6.0\refint\ForLoopExercise.dll
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\obj\Debug\net6.0\ForLoopExercise.pdb
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\obj\Debug\net6.0\ForLoopExercise.genruntimeconfig.cache
+C:\Users\Niko\C#_Exercises\ForLoopExercise\ForLoopExercise\obj\Debug\net6.0\ref\ForLoopExercise.dll
